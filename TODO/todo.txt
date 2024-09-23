@@ -1,0 +1,7 @@
+2.- Dona l'opció d'obtenir altres dades
+
+3.- Que l'usuari pugui entra el nom del municipi enlloc del codi.
+
+4.- Altres millores
+
+5.- Puja el teu projecte a DockerHub (veure Registre )
